@@ -31,4 +31,4 @@
 ### LOCAL - Clone/FORK
 
 1. Clone o repositório para seu ambiente com o comando `https://github.com/batestin1/coding_the_future_dio_prevendo_acoes_com_redes_neurais.git`.
-2. Abra a pasta Machine Learning e o notebook `prevendo_acoes_com_redes_neurais.ipynb` via juptyer notebook ou a IDE de sua preferência.
+2. Abra a pasta Machine Learning e o notebook `dio_acoes_rnn.ipynb.ipynb` via juptyer notebook ou a IDE de sua preferência.
